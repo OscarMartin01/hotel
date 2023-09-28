@@ -1,7 +1,8 @@
 ![](https://cdn.iconscout.com/icon/free/png-512/free-java-2038875-1720088.png?f=avif&w=256)
-#Proyecto hotel alura
 
-###Descripción
+# Proyecto hotel alura
+
+### Descripción
 Este es un proyecto de una aplicación de un hotel hecho en Java usando interfaz gráfica swing e implementando la API JDBC con una base de datos tipo MySQL, a continuacion les comparto la informacion de la base de datos que se usó para el proyecto:
 
 	create database hotel;
@@ -27,14 +28,14 @@ En este proyecto puede:
 + Eliminar los registros existentes en caso de ser requerido.
 + Buscar un usuario en especifico por medio de su identificador (Id).
 
-###Herramientas
+### Herramientas
 - IDE: Eclipse
 - Java: Version 17
 - Java swing: Interfaz gráfica
 - JDBC: API para la interacción de Java con la base de datos
 - MySQL: Base de datos para alojar los daros
 
-###Uso del proyecto
+### Uso del proyecto
 + Use el siguiente comando para clonarlo `aaaa` o descargarlo como archivo .zip y extraer el archivo.
 + Importar el proyecto en el programa Eclipse.
 + El proyecto tendrá un mensaje de error que indica que la ruta de la librerias externas no existe en tu computadora para ello realize lo siguiente:
